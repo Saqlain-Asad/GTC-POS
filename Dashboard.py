@@ -8,7 +8,7 @@ import datetime
 
 import pickle
 from pathlib import Path
-import streamlit_authenticator as slauth
+#import streamlit_authenticator as slauth
 
 
 status = False
