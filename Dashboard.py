@@ -3,12 +3,12 @@ import streamlit as sl
 import pandas as pd
 # from PIL import Image
 # import time
-from streamlit_extras.app_logo import add_logo
+#from streamlit_extras.app_logo import add_logo
 import datetime
 
 import pickle
 from pathlib import Path
-#import streamlit_authenticator as slauth
+import streamlit_authenticator as slauth
 
 
 status = False
